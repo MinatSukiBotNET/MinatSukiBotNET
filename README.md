@@ -1,6 +1,6 @@
-<h1 align="center">⚡️ Hey, You ! Welcome to the Medusa :O! ⚡️</h1>
+<h1 align="center"><img src="https://img.icons8.com/color/256/jellyfish.png" width="5%" height="5%"> ! Welcome To The Hive ! <img src="https://img.icons8.com/color/256/jellyfish.png" width="5%" height="5%"></h1>
 
-<img src="https://user-images.githubusercontent.com/69421356/175442177-0f05ce78-31a5-44db-a7e3-603f7e96050a.png">
+<img src="https://i.ibb.co/DDg8GRq/wallpaperflare-com-wallpaper.jpg">
 
 ```javascript
 export default class Client {
@@ -63,11 +63,11 @@ export default class Client {
     <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
 </p>
 <div float="center">
-    <a href="https://discord.gg/qUUAVrKmXU">
-        <img align="left" width="400" src="https://discord.com/api/guilds/1020310435892838503/widget.png?style=banner3">
+    <a href="#">
+        <img align="left" width="400" src="#">
     </a>
-    <a href="https://t.me/+Pn2PmVtSR05mZjc0">
-        <img align="right" width="400" src="https://user-images.githubusercontent.com/69421356/187553684-d619455b-09db-41c0-af6f-a47126fd8018.png">
+    <a href="#">
+        <img align="right" width="400" src="#">
     </a>
 </div>
 
