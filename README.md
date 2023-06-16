@@ -3,7 +3,7 @@
     </p>
     
 <h1 align="center">
-Hello Everyone 👋, I'm ShinyChariot
+Hello Everyone 👋, I'm MSC1337
 </h1>
 
 <h4 align="center">
