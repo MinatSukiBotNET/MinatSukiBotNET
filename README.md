@@ -1,82 +1,63 @@
-<h1 align="center"><img src="https://img.icons8.com/color/256/jellyfish.png" width="5%" height="5%"> ! Welcome To The Hive ! <img src="https://img.icons8.com/color/256/jellyfish.png" width="5%" height="5%"></h1>
-
-<img src="https://i.ibb.co/DDg8GRq/wallpaperflare-com-wallpaper.jpg">
-
-```javascript
-export default class Client {
-    constructor() {
-        this.Description = "I'm a skid developper in Python 🐍 & Nodejs 🟢",
-        this.MostUsedLangs = ["Python", "NodeJS"],],
-        this.Servers = ["mariadb", "mongodb"]
-    }
-}
-```
-
-<h3 align="center">🥇 Trophies</h3>
-<p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
-</p>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=1337Systemx86&amp;theme=dracula&amp;margin-w=15&amp;margin-h=15&amp;column=8">
-</p>
-
-<h3 align="center">📊 Stats</h3>
-<p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
-</p>
-<div float="center">
-    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=1337Systemx86&amp;theme=dracula&amp;show_icons=true&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
-    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=1337Systemx86&theme=dracula&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA">
-</div>
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
-<h3 align="center">📌 Actual Projects</h3>
-<p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
-</p>
-
-<div>
-    <p>
-        <a href="https://tinyurl.com/5xa9nyd6"><img width="100" align="left" src="https://i.ibb.co/nkDS4CN/square.png"></a>
-    <h3>Medusa Stealer</h3>
-    <h4>Medusa Stealer's is an online remote access control tool focused on data retrieval and extraction for developers and cybersecurity analysts to test their applications. We are at the dawn of a new era of cloud-based monitoring.</h4>
+<p align="center" width="100%">
+    <img width="100%" height='300px' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
     </p>
-    <br>
-    <hr>
-    <br>
-    <p>
-        <a href="#"><img width="100" align="left" src="https://i.ibb.co/kKh8VCZ/b3a58f13a7a17005e7bd8e8785b2d2b3.png"></a>
-    <h3>Medusa Privacy</h3>
-    <h4>Medusa Privacy is an anonymous chat that doesn't store any connection log, ip address, coockie... you can discuss anything without being bothered by your words or opinions.</h4>
+    
+<h1 align="center">
+Hello Everyone 👋, I'm ShinyChariot
+</h1>
+
+<h4 align="center">
+
+ **IT is only a tool, man is the target**
+    
+   
+  
+[![](https://visitcount.itsvg.in/api?id=ShinyChariot1337&icon=0&color=0)](https://visitcount.itsvg.in)
+
+    
+## 🌐 Connect with me:
+    
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShinyChariotSh) 
+    
+
+<h1 align="center">
+    My programming languages 💜:
+    </h1>
+    
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ 
+
+<h1 align="center">
+     📊 GitHub Stats:
+  </h1>
+  
+<br/>
+    
+<p align="center" width="100%">
+    <img width="100%" height='200px' src="https://github-readme-streak-stats.herokuapp.com/?user=ShinyChariot1337&theme=dark&hide_border=false">
     </p>
-</div>
 
-<br><br>
-<br><br>
+<h1 align="center">
+     🏆 My Trophies
+  </h1>
 
-<h3 align="center">📃 Join Us</h3>
-<p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
-</p>
-<div float="center">
-    <a href="#">
-        <img align="left" width="400" src="#">
-    </a>
-    <a href="#">
-        <img align="right" width="400" src="#">
-    </a>
-</div>
+<br/>
+    
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <p align="center" width="100%">
+    <img width="100%" height='150px' src="https://github-profile-trophy.vercel.app/?username=ShinyChariot1337&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+    </p>
+    
+    
+<h1 align="center">
+    ✍️ Random Dev Quote
+  </h1>
 
-<h3 align="center">📞 Contact</h3>
-<p align="center">
-    <img src="https://github.com/Ralex91/Ralex91/blob/main/bar.jpg?raw=true">
-</p>
-<p align="center">
-    <img align="center" src="https://lanyard-profile-readme.vercel.app/api/1033756998543626371">
-</p>
+  <p align="center" width="100%">
+    <img width="70%" height='150px' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+    </p>
+
+
+
+
+
